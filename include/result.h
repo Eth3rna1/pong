@@ -6,8 +6,6 @@
  * C++23, since <expected> is only available in C++32 and onward.
 */
 #pragma once
-#ifndef RESULT_H
-#define RESULT_H
 
 #include <variant>
 #include <stdexcept>
@@ -50,5 +48,3 @@ public:
         exit(1); // Exit the program on error
     }
 };
-
-#endif
