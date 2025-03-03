@@ -4,7 +4,7 @@
 #include <thread>
 #include <chrono>
 #include <iostream>
-#include <algorithm>
+/*#include <algorithm>*/
 /*#include "engine/coordinate.h" // for Coordinate struct*/
 
 
